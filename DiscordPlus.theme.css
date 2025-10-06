@@ -14,12 +14,12 @@
 @import url('https://plusinsta.github.io/discord-plus/src/DiscordPlus-source.theme.css');
 
 .theme-dark {
-  --dplus-backdrop: url('https://i.imgur.com/3AiL3yN.png');
+  --dplus-backdrop: url('https://raw.githubusercontent.com/WushR00M/discord-plus/refs/heads/master/2036-3840x2160-desktop-4k-firewatch-background-photo.jpg');
   /* Image or color for the backdrop. Defaults to accent color on error. */
   
-  --dplus-accent-color-hue: 320;
+  --dplus-accent-color-hue: 240;
   --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-lightness: 40%;
   /* Accent colors accentuate foreground elements. */
   /* https://hslpicker.com */
 
@@ -37,7 +37,7 @@
   
   --dplus-background-color-hue: 320;
   --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 1;
+  --dplus-background-color-lightness-amount: 0;
   --dplus-background-color-alpha: 0.8;
   /* This determines the color and opacity of surfaces. */
   /* If the foreground is hard to read, try adjusting these values. */
